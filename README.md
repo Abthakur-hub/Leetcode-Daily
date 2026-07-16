@@ -123,6 +123,7 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,6 +132,7 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,4 +141,20 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 <!---LeetCode Topics End-->

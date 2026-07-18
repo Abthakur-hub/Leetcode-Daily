@@ -123,6 +123,7 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0162-find-peak-element](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -176,6 +177,7 @@ This repository serves as:
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0162-find-peak-element](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0162-find-peak-element/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |

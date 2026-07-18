@@ -124,6 +124,7 @@ This repository serves as:
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Divide and Conquer
@@ -146,6 +147,7 @@ This repository serves as:
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Two Pointers
@@ -160,6 +162,7 @@ This repository serves as:
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table

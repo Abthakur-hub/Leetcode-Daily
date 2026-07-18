@@ -123,6 +123,7 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -130,10 +131,12 @@ This repository serves as:
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Heap (Priority Queue)
@@ -168,6 +171,7 @@ This repository serves as:
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0169-majority-element/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -180,6 +184,7 @@ This repository serves as:
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0169-majority-element/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |

@@ -198,6 +198,7 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -214,4 +215,8 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1260-shift-2d-grid](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1260-shift-2d-grid/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 <!---LeetCode Topics End-->

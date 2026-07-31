@@ -148,6 +148,7 @@ This repository serves as:
 | [0215-kth-largest-element-in-an-array](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -193,6 +194,7 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0169-majority-element/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -208,6 +210,7 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0169-majority-element/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -219,6 +222,7 @@ This repository serves as:
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Stack
@@ -230,6 +234,7 @@ This repository serves as:
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |

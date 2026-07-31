@@ -9,14 +9,12 @@ class Solution {
         
         int a=0;
         int b=n-1;
-        if(n>2){
-            while(a<b){
-                int temp = freq[a];
-                freq[a]=freq[b];
-                freq[b]=temp;
-                a++;
-                b--;
-        }
+        while(a<b){
+            int temp = freq[a];
+            freq[a]=freq[b];
+            freq[b]=temp;
+            a++;
+            b--;
         }
         
         int count = 0;

@@ -130,6 +130,7 @@ This repository serves as:
 | [0283-move-zeroes](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0283-move-zeroes/) | Easy |
 | [0486-predict-the-winner](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0877-stone-game/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1260-shift-2d-grid/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -168,6 +169,7 @@ This repository serves as:
 | [0486-predict-the-winner](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0486-predict-the-winner/) | Medium |
 | [0507-perfect-number](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0507-perfect-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0877-stone-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -267,6 +269,7 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0877-stone-game/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -275,4 +278,5 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->

@@ -138,6 +138,7 @@ This repository serves as:
 | [1406-stone-game-iii](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -210,6 +211,7 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0169-majority-element/) | Easy |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3731-find-missing-elements](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3731-find-missing-elements/) | Easy |
@@ -228,6 +230,7 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0169-majority-element/) | Easy |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Prefix Sum
@@ -240,6 +243,7 @@ This repository serves as:
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0014-longest-common-prefix/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |

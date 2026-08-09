@@ -134,6 +134,7 @@ This repository serves as:
 | [0486-predict-the-winner](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1140-stone-game-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1260-shift-2d-grid/) | Easy |
 | [1406-stone-game-iii](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -180,6 +181,7 @@ This repository serves as:
 | [0507-perfect-number](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0507-perfect-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1406-stone-game-iii/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -238,6 +240,7 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [1140-stone-game-ii](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1140-stone-game-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -293,6 +296,7 @@ This repository serves as:
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1406-stone-game-iii/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Recursion
@@ -304,6 +308,7 @@ This repository serves as:
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1406-stone-game-iii/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
@@ -321,4 +326,12 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3310-remove-methods-from-project](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3310-remove-methods-from-project/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1140-stone-game-ii/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1140-stone-game-ii/) | Medium |
 <!---LeetCode Topics End-->

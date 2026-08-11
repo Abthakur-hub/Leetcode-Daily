@@ -141,6 +141,7 @@ This repository serves as:
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -160,6 +161,7 @@ This repository serves as:
 | [0628-maximum-product-of-three-numbers](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -216,6 +218,7 @@ This repository serves as:
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0169-majority-element/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3731-find-missing-elements](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3731-find-missing-elements/) | Easy |

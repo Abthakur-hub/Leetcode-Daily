@@ -141,6 +141,7 @@ This repository serves as:
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -218,6 +219,7 @@ This repository serves as:
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0169-majority-element/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -295,6 +297,7 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |

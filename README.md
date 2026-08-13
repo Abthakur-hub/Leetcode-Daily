@@ -141,6 +141,7 @@ This repository serves as:
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -254,6 +255,7 @@ This repository serves as:
 | [0014-longest-common-prefix](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0014-longest-common-prefix/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -353,4 +355,12 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1510-stone-game-iv/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 <!---LeetCode Topics End-->

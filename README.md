@@ -144,6 +144,7 @@ This repository serves as:
 | [2029-stone-game-ix](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2029-stone-game-ix/) | Medium |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -211,12 +212,14 @@ This repository serves as:
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0031-next-permutation/) | Medium |
 | [0283-move-zeroes](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0283-move-zeroes/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1260-shift-2d-grid](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1260-shift-2d-grid/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Number Theory

@@ -244,6 +244,7 @@ This repository serves as:
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0169-majority-element](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0169-majority-element/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -289,6 +290,7 @@ This repository serves as:
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0020-valid-parentheses/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0890-find-and-replace-pattern/) | Medium |
@@ -356,6 +358,7 @@ This repository serves as:
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |

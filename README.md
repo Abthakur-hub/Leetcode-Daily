@@ -317,6 +317,7 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0020-valid-parentheses/) | Easy |
+| [0155-min-stack](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0155-min-stack/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0682-baseball-game/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -452,4 +453,8 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->

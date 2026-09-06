@@ -132,6 +132,7 @@ This repository serves as:
 | [0283-move-zeroes](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0414-third-maximum-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0486-predict-the-winner/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0496-next-greater-element-i/) | Easy |
 | [0605-can-place-flowers](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0877-stone-game/) | Medium |
@@ -246,6 +247,7 @@ This repository serves as:
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0169-majority-element](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0169-majority-element/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0496-next-greater-element-i/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0771-jewels-and-stones/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -313,6 +315,7 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0020-valid-parentheses/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0496-next-greater-element-i/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -332,6 +335,7 @@ This repository serves as:
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0496-next-greater-element-i/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |

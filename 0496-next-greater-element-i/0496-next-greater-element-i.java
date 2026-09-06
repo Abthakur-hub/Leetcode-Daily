@@ -12,7 +12,6 @@ class Solution {
                 else if(a==nums2.length-1){
                     arr[i]=-1;
                 }
-                else{}
             }
         }
         return arr;

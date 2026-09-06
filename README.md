@@ -125,6 +125,7 @@ This repository serves as:
 | [0014-longest-common-prefix](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0031-next-permutation/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0162-find-peak-element](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0169-majority-element/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -200,6 +201,7 @@ This repository serves as:
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0486-predict-the-winner](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0486-predict-the-winner/) | Medium |
 | [0507-perfect-number](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0507-perfect-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -317,6 +319,7 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0020-valid-parentheses/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0155-min-stack/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0682-baseball-game/) | Easy |

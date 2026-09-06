@@ -246,6 +246,7 @@ This repository serves as:
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0169-majority-element](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0169-majority-element/) | Easy |
+| [0771-jewels-and-stones](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0771-jewels-and-stones/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
@@ -293,6 +294,7 @@ This repository serves as:
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0020-valid-parentheses/) | Easy |
+| [0771-jewels-and-stones](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0771-jewels-and-stones/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |

@@ -326,6 +326,7 @@ This repository serves as:
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -344,6 +345,7 @@ This repository serves as:
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0496-next-greater-element-i/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -388,6 +390,7 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0486-predict-the-winner/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -456,6 +459,7 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |

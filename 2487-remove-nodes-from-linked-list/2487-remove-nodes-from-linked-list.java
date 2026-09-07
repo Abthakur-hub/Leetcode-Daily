@@ -23,18 +23,11 @@ class Solution {
             }
             temp=temp.next;
         }
-        ArrayList<Integer> list = new ArrayList<>();
-        while(!st.isEmpty()){
-            list.add(st.pop());
+        while(st.size()!=0){
+            ListNode top = new ListNode(st.pop());
+            top.next = temp;
+            temp = top;
         }
-        Collections.reverse(list);
-        ListNode dummy = new ListNode(0);
-        ListNode curr = dummy;
-        for(int a : list){
-            curr.next = new ListNode(a);
-            curr = curr.next;
-        }
-        
-        return dummy.next;
+        return temp;
     }
 }

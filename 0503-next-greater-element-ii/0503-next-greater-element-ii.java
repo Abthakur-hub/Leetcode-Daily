@@ -5,8 +5,6 @@ class Solution {
             st.push(nums[i]);
         }
         int[] arr = new int[nums.length];
-        int max = Integer.MIN_VALUE;
-        for(int i=0; i<nums.length; i++) max = Math.max(max,nums[i]);
 
         for(int i=nums.length-1; i>=0; i--){
             while(st.size()!=0 && nums[i]>=st.peek()) st.pop();

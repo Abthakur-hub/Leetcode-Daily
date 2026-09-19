@@ -141,6 +141,7 @@ This repository serves as:
 | [0682-baseball-game](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0682-baseball-game/) | Easy |
 | [0877-stone-game](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0877-stone-game/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0890-find-and-replace-pattern/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1140-stone-game-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1260-shift-2d-grid/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -274,6 +275,7 @@ This repository serves as:
 | ------- | ------- |
 | [0162-find-peak-element](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Combinatorics
@@ -293,6 +295,7 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1140-stone-game-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -382,6 +385,7 @@ This repository serves as:
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Dynamic Programming

@@ -162,6 +162,7 @@ This repository serves as:
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -221,6 +222,7 @@ This repository serves as:
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3870-count-commas-in-range](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3870-count-commas-in-range/) | Easy |

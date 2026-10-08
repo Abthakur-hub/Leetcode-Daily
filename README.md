@@ -311,6 +311,7 @@ This repository serves as:
 | [0020-valid-parentheses](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0020-valid-parentheses/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0771-jewels-and-stones/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0890-find-and-replace-pattern/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -336,6 +337,7 @@ This repository serves as:
 | [0496-next-greater-element-i](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0682-baseball-game/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -468,6 +470,7 @@ This repository serves as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/0020-valid-parentheses/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |

@@ -336,6 +336,7 @@ This repository serves as:
 | [3499-maximize-active-section-with-trade-i](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |

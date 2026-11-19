@@ -171,6 +171,7 @@ This repository serves as:
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3731-find-missing-elements/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -230,6 +231,7 @@ This repository serves as:
 | [3536-maximum-product-of-two-digits](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3870-count-commas-in-range](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abthakur-hub/Leetcode-Daily/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
